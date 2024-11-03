@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">fufuufufuf</string>
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+    <string name="action_settings">Настройки</string>
+    <string name="open">Открыть</string>
+    <string name="save">Сохранить</string>
+</resources>
